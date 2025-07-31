@@ -59,13 +59,9 @@ body a {
 }
 h1 {
 	color: #fff;
-	font-size: 28px;
+	font-size: 14px;
 	padding: 20px 0 0 0;
 	margin: 0;
-
-	border-bottom: 2px solid #fff;  /* 白い下線（色は背景に応じて変更OK） */
-	display: inline-block;           /* 棒を文字の幅に合わせて短くする */
-	padding-bottom: 5px;             /* 下線と文字の間に余白をつける */
 }
 h1 a {
 	font-weight: bold;
