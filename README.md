@@ -1,18 +1,18 @@
 # Profile
 
-- **Name**: Reiji Softmax Saito 
+- **Name**: Reiji Softmax Saito
 
 - **Affiliation**: Meijo University / Electrical and Electronic Engineering, 2nd-year Master’s student
 
 - **Interests**:
-    AI, Machine Learning, Deep Learning
-    Computer Vision and Pattern Recognition
+  - AI, Machine Learning, Deep Learning
+  - Computer Vision and Pattern Recognition
 
-- **Research**
-    Domain Generalization
-    Semantic Segmentation
-    Few-shot Learning
-    Visual Inspection (Anomaly Detection)
+- **Research**:
+  - Domain Generalization
+  - Semantic Segmentation
+  - Few-shot Learning
+  - Visual Inspection (Anomaly Detection)
 
 # Skills
 
@@ -24,3 +24,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
